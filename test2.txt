@@ -1,2 +1,2 @@
-Hello from girhub
+Hello from github
 Hello again
